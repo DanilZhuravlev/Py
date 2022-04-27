@@ -1,2 +1,2 @@
-print("press to F")
-printf()
+print("press F to pay respect")
+prints
